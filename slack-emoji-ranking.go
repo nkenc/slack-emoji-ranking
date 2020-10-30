@@ -94,14 +94,14 @@ func main() {
 	}
 	fmt.Println(text)
 
-	channel := os.Getenv("SLACK_SEND_CHANNEL")
-	if channel == "" {
-		channel = "general"
-	}
+	// channel := os.Getenv("SLACK_SEND_CHANNEL")
+	// if channel == "" {
+	// 	channel = "general"
+	// }
 
-	fmt.Println("Send Channel: " + channel)
+	// fmt.Println("Send Channel: " + channel)
 
-	sendMessage(token, text, channel)
+	// sendMessage(token, text, channel)
 }
 
 func GetChannelHistory(token string, channelID string, channelName string, total *SafeCounter, wg *sync.WaitGroup) error {

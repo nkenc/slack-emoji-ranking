@@ -1,0 +1,3042 @@
+C04DS1X83 general
+C04DS1X85 random
+C04DS97Q1 notify-github-android
+C04DSF3RK teamdocs
+C080XLMEX requestbox
+C0829JR1N helpbox
+C096BUX8S to-casestudy
+C09J4D9D5 crebox
+C0C18MP2Q team-sales
+C0DKH6E3F to-developer
+C0E6M58MC notify-github
+C0HAUB93P notify-alert
+C0JB1HGLS customize-righton
+C0JT4V32P yappli-tel
+C0KCBCRJR to-team-creative
+C0KTMRLJC olive
+C0KTTLEMR customize-olive
+C0L9D3X7F snowboard
+C0LR1AGGP customize-azul
+C0P01EGS2 team-marketing
+C0PRF8SSH customize-printemps
+C0PRHSBPZ customize-inageya
+C0R4FETFU neutral-works-app
+C0RD8243E to-salestalk
+C0RQ1FKDG customize-syabuyo
+C0RQD3124 demo
+C0VEKSUUW customize-hysgla
+C0XKECM4H to-ec-rs
+C11EC6DDJ doublefocus
+C1B9CJ08Z customize-tokyodelica
+C1EB12BPY customize-taiheiyo
+C1M7UAZE0 customize-tokyobase
+C1NNQ8YGY kobelettuce
+C1RLEDY04 customize-punyus
+C1TPT17EJ blog
+C1V2MBY0J web_seo_sem
+C1ZT06WH4 website_renewal
+C22E76A2G ec
+C22RTCSA0 yappli-app-release
+C24PTJUGN prj-yappli-mmu
+C26KFJ9JQ team-insidesales
+C26KJ9RPY team-fieldsales
+C29RHV6BF the-north-face-ope
+C2HSWMUDB confluence
+C2L2RRC6A ope-northface
+C2L3041CH ope-neutralworks
+C2L38RY3C ope-hellyhansen
+C2LHZTQJ3 customize-luxurycard
+C2Q37TENL cms3
+C2Z1KEY57 customize-rope
+C2ZN7VBFY notify-alert-dev
+C30J2C74Y to-director
+C3207F1QX customize-tsi
+C32205ER4 request
+C32K19TE2 customize-wego
+C34926HCJ yappli-friend-club
+C34A2V4HJ wacoal_app
+C34D09AP2 issuebox
+C36N5LUKX question_box
+C38GPRUNL year-end
+C3B4WNEDC customize-chibagin
+C3GEQ17C2 customize-jun
+C3N5CLA0J ladys
+C3PCQL6AG customize-casting
+C3QCF3LCT notify-online-sales
+C3R51UDE2 online
+C3R589286 team-customer-success
+C3S8EEBT5 to-designer
+C3URK2ST1 prj-engineer-event
+C4EKT80P2 to-app-ad
+C4HAM3QG4 customize-saishunkan
+C4HBXEDHS customize-sanyo-old
+C4HCCA80K corporate_name
+C4HS18EQY freetrial_lead
+C51QFNE6N customize-kitanihon
+C51USLHLL develop
+C54KU5868 customize-tutu
+C54LC3V9A notify-support
+C5CDC0U7M customize-dome
+C5F0J8X0D smc-sanrio
+C5H78KGCU customize-aeon
+C5JJSP10R kintai
+C5L2XBHF1 customize-can
+C5VLKCP19 customize_j
+C5W33DTSS series-b_tsunoda
+C5W8TGL83 na
+C63SJCFD2 customize-klc
+C6H1613NV notify-issue-qacs
+C6JRSAA2X notify-github-ios
+C6PRN7XC4 customize
+C6PS6E5BK prj-churn-down
+C6QCY9LR1 aeon-sfmc_test_team
+C6T12T998 insidesales_marketing
+C6X2Z0X3Q ichiro_test_channel
+C6Z865NNP team-corporate
+C707DK7KN push
+C73KLPCUV katespade_aftertalk
+C76F4UXME recruitweb
+C77KQE7T3 改善
+C7B3TBY9E alert-death
+C7D0Z8BUG customize-naughtydog
+C7FUAUYTT team-td-and-se
+C7H8NR1PF wiki
+C7JJ6Q03V prj-labo_yappli
+C7KNXRFGX labo
+C7KQZJV7D prj-marketingcreative
+C7LBYH15L summit_reception
+C7MPDKBNV customize-joix
+C7PCFQVUK luxury_china
+C7PJ6R4FP customize-ceno
+C7QCC3DHU ext-overdrive-yappli
+C7RSDSDFB customize-soundhouse
+C7RVD13PW talk-lunch
+C7SFNNU8Z copen_unyo_community
+C7T1ZDV3J owned_media_maji
+C7T6XPXUM customize-crestbridge
+C7TGZ0CA3 customize-java
+C7TUZ8KN2 team
+C7ULY1LCE alart
+C7XEZ0V7E copen_watanabe
+C7XHPU8VB copen_utsumi
+C7YD40J3A team-apps
+C7YDBBQK1 customize-shimojima
+C7Z5U129G weddingpresent
+C80JD57RT customize-plst
+C82SK03B6 can_test
+C87SBUJ8H de
+C888X665S developer_kpt
+C88F63J5N make_doc
+C88GR360H talk-1991
+C893T58MS karte-yappli
+C89TXJATY year-end-party
+C8A4R3AKH to-sf-migration
+C8A75D3C7 make_docs
+C8B3R45DX ad_model
+C8CML189M customize_shincho
+C8E1P5SFQ customize-seiyu
+C8EEKHLSW prj-se-test
+C8F36UBD5 storage
+C8FCDDF45 custmaize_asakusa
+C8G6V442Z c
+C8HA08DM3 analytics
+C8HTS2AFL dev_daily_report
+C8JBVEWEL idom_kurumaconnect
+C8KH7734P project-gpsstamp
+C8NJA9F1T talk-tech-news
+C8PGSBG9M ma
+C8R1QRKRR times-oni
+C8RSR0SSH times-haya
+C8S9AJ7HD wantedlyphoto
+C8T0YEQEB customize-phiten
+C8TFC26BU pinchos
+C8TLG44RL times-shirai
+C8UGQAVQB team-servers
+C8X1VE3E1 copen_aoyama
+C8Y9CFHPA notify-qa-jira
+C90U5BC57 copen_ogata
+C91DT8NKB 20180201question
+C91V21F99 club-snowboarding
+C9269JKHU customize-clublion
+C92AN1PAT times-hos
+C92ANS7FH k_b
+C92TUF682 club-golf
+C93TA3NAU club-survival-game
+C94KYNVL6 interview_request
+C96GN9JDA field
+C96K2JTCM to-office-facilities
+C98PCJAHZ app_build
+C98S88TNZ yappli-update
+C996MHAEB customize-diskunion
+C9A3NM4KE project_dashboard
+C9B0U5FG8 yoga
+C9BMMJ53K customize-tomato
+C9C7WPG8G project_chatsdk
+C9C8CUJAC times-mochizuki
+C9CTH5DBL project_devweb
+C9DKBCFT6 customize_kendepo
+C9DP796H4 to-開発相談
+C9E3A44K1 cast
+C9FALQDHS times-okiku
+C9FCDR1QQ prj-uiux-improve
+C9FCRBS81 times-nakami
+C9FEJU7MF project_zappar
+C9G6Y7RGV cs-sample-check
+C9GSNQBJS notify-autotest
+C9HEGTCRG osaka-4ch
+C9HFEQFEH notification_mochi2
+C9HGLFPK7 times-zuckey2
+C9J8N5X8W diffeasy_yappli
+C9KUJ1FC1 times-nabe
+C9LNVFC5C dev_mmu_2018
+C9N7SKN81 customize_oogaki
+C9P62D7NK to-support
+C9R8A3XHV times-habuchi
+C9S3HJYGZ club-movie
+C9U2RR5J7 notify-highest
+C9U3PLE0Y where_is_sozai
+C9U3X8FJQ support-high
+C9VACD60H customize-joshin
+C9X79RB7U customize-theory
+C9XS1TL3D times-okamoto
+C9Y219ECB customize-sogoseibu
+C9Z3GN7AM kintai-directors
+C9Z3GV4SD kintai-developers
+C9ZKL1SH0 kintai-cust-success
+C9ZPGFSH3 kintai-marketing
+C9ZPGPQN9 kintai-sales
+C9ZPJG5D3 kintai-corporate
+C9ZSZ5DT6 ext-abridge-yappli
+CA0M0F51D kintai-designers
+CA37BFQFJ customize-daiwahotel
+CA643TVFC bubble_how_to
+CA6D38RMK bar_frontier
+CAA2EKQ4B customize-arigaen
+CAB5LGYR5 stg-branch
+CACP7HCF4 customize-neuve-a
+CACQRG1L5 to-churn-rate
+CAH1B450V custom_theory
+CAJM1JPHP customize-shiseidou
+CAJTK2FMX backoffice
+CAKQ03K99 cs_dir
+CAKU9HJ9E seminar
+CALBFTWJ0 test-slack-for-td
+CAM3XES6Q project_photoframe
+CAMLMJ2VD 営業企画--開発
+CAP38A7C3 yokosuka_task
+CAQ4S6ZJT customize-conven
+CAR76PXMH customer_success_only
+CARH2DEP8 prj-customersuccessda
+CARV969EX prj-yapplisdk
+CAT746QP7 to-sales-invoice
+CATNMS4T1 club-boulderer
+CAUMTFXNV prj-new-cms
+CAX4ZQ5GV admin_announce
+CAXE5JUJ0 mktg-cs
+CB1U57HFZ customize-kobayashi
+CB20BD4KB osaka-emergency
+CB29R6VFW osaka-random
+CB34T5Q1Z prj-ec-connect
+CB3A9TMFY cs-se_stampcard
+CB3QTQ3NY internal-audit
+CB4PR577E customize_technopro
+CB6T8P0VD copen_iwanaga-y
+CB771S4TV ypd
+CB8FBB5B9 project_repro
+CB8L2T2TT s_assistant
+CBAQKU99P p_mark
+CBB58BH9S customize-trecenti
+CBCLKSCHF talk-keio_users
+CBDSQ32SF pai
+CBG3G682X customize-recruit
+CBGMNEAKB customize-sanyo
+CBH25AEAG team-meetup
+CBH7232M8 club-boardgame
+CBHV0RW2W prj-doi-ext-operation
+CBJL8NYG1 customize-talbots
+CBK1YDNHM team-pdm
+CBL96EBUY dev_handson
+CBMFE08EP prj-app-marketing
+CBMFG3LDA prj-ar
+CBNMVQNQZ customize-jwi
+CBNS02R7H prj-rakuten_pt
+CBP5B5C10 customize-bodymaker
+CBQ8N5CET customize-sekimiki
+CBQUZ5P47 customize-foodyone
+CBRHB13J7 osaka-relocation
+CBRP2GUGY marke_offline
+CBS8Q7Q68 team-legal
+CBSBA4Q5R osaka-cs3
+CBTFT7T5X customize-sekido
+CBW0GKDUZ notification_check
+CBWJYS0TT android_notification
+CBZBWQN7Q times-yukahara
+CBZGS2XC4 osaka-sales
+CC0GFARRQ talk-iyashi_no_mado
+CC1H0CGA1 to-legal
+CC63XN63V osaka-food
+CC7670FPW customize-proactive
+CC9GJS0AC chaos
+CC9UL8KGU god
+CCAAVLV42 kpt
+CCAE4BYFR note-ootani
+CCAQJRWAJ company-investigation
+CCAV1R6AJ to-wework-key
+CCBP6E597 yapplisummit
+CCC3S3T8C to-cs-mail-magazine
+CCCBB3JF9 wew
+CCDLRPL2W abstract
+CCEMECS3H note-oshiro
+CCFJC2M16 notify-yappli-values
+CCFQZFYGH yapplinight
+CCHCELEF3 notify-reception
+CCK4E29UZ times-shadow
+CCK5QM9SL app-preparation
+CCMEL870X to-jobcan
+CCQ2XL6H2 bbq0926
+CCRNTEZFE we
+CCS8RA117 notify-new-cms
+CCSNX2M96 club-padel
+CCSVDG3UP yapplisummit_update
+CCTA8AX5J chi-ra-mi-se-night
+CCTNKCZA9 times-ikeu
+CCULU7H6W customize-kubarahonke
+CD2683JUQ customize-renaissance
+CD26HRUUQ team-creative-office
+CD29NVD7B talk-gamers
+CD2G99MFB talk-cats
+CD4DWMQUS talk-dogs
+CD50N95SP times-muscle
+CD6NW92PN team-qa
+CD6RD8NF6 times-ymzk
+CD7QCF7PU customize-ragtag
+CDB2T319N cost_marketing
+CDBUB5DT5 ext-sorako-yappli
+CDC792HPG bicycle
+CDE0SD326 copen_igarashi
+CDF28CCKU team-frontend
+CDG4B9UBB team-sales-planning
+CDGDQD4MC applicationinfo_audit
+CDGSGPX47 customize-sanrio
+CDJA0KA0G kaizen
+CDMCRKEKG expo
+CDN9RPQTS to-creative-req
+CDNAC4F7A team-developer-okr
+CDP0WAJDR project_webrevamp
+CDQJ8SHNH harajuku_food
+CDRR31SCR prj-specialist-define
+CDV8Q0U15 prj-progress-meeting
+CDV9LBA7R to-office-question
+CDVGS5R54 times-sasa
+CDY8LKP8C ext-pitcrew
+CDYJJGRFU prj-ga
+CE290TAAH roumu_memo
+CE2KL7XH7 customize_niko
+CE3VDLZLK katesapade_us
+CE4978XLM jun_bunkasai
+CE71MU924 project_taxi_ad
+CEAQ743V5 times-kaji
+CEC6T2WJD client_list
+CECKDAEHJ newbalance_ar
+CEGPG8A72 club-barista
+CEH9FNMAB customize-alpen
+CEJK17HQT osaka-office
+CEJN2BAGJ osaka_project
+CEK1K6108 talk-電子工作同好会
+CEK47A3SL pricelist
+CEK6Y7WNM cs_emergency
+CEPRFPV5F fluent_english
+CEREASZ2T marketing-only
+CESJKE6UF kin
+CESN5LL67 abridge-yappli_chiba
+CEV9J7ECB team-corp-engineering
+CEVPJU3H6 prj-y4b
+CEVQN4UTS recruiting
+CEWBZHZMG prj-corp-hp-renewal
+CEWDLD5PE notify-yappedia
+CEWKBJV2B notify-ce-wiki
+CEXE3RERG notify-recruit
+CEYN7FECA osaka-exhibition
+CEZG35LBD meetup-3社合同イベント
+CF27A0N9X times_tsuno
+CF2NDHJ07 customize-nuskin
+CF2P6J5UP yappli-relocation2019
+CF7TNSQTF osaka
+CF8LQ6NCT times-shin
+CF9KQ5V32 kintai-communication
+CFA7VN7C4 customize-hp
+CFCTSBBL0 to-inside-marketo
+CFDJV65GT ext-gmotech-yappli
+CFF06KC13 fieldsales-勤怠
+CFF2BT77C ext-yappli-draft
+CFGM7M9QC pmi_corporate
+CFGP15FQB team-appcapsule
+CFH2KDWPP prj-ac-business
+CFHFP4HK8 customize-skylark
+CFJ13RMQQ notify-relocation
+CFJ8W7SLE project_guideline
+CFJBNLH9A prj-kintai-replace
+CFJF8G5GS customize-tomy
+CFK1LHR6D customize-heads
+CFKTAEWDP notify-ce-jira
+CFLCU1M27 notify-pti-jira
+CFMK80M9R tmp-highest-flow-upda
+CFMNB9CGJ customize-honeys
+CFMQN3TJR ext-digiha-yappli
+CFNK5RCGL notify-new-cms-alert
+CFQUZTUNM team-developer
+CFRJ0ABFW prj-ac-pmi
+CFRJ63DC6 notify-jira-apcy
+CFRL3USTV tmp-zendesk-support
+CFS5N1KPB tmp-reject
+CFT66F0A2 customize-jtb
+CFTEDRAPJ customize-yoshimoto
+CFX7MRYN9 customize-fishing8
+CFY83PGTZ prj-corp-security
+CFYA95GBD team-bo-support
+CFYPDC65P prj-exhibition
+CFZJ23J9L customize-triumph
+CFZK8K63G notify-ce-workflow
+CFZQ2UDML customize-beams
+CG07LS4GL notify-soumu-etc
+CG07P229H prj-corp-photo
+CG0C7LM7Z talk-designer-review
+CG0ESMYNP customize-newbalance
+CG0HRKKCP prj-b-dash
+CG47W71NE yappli-novelty
+CG4925E3V times-legstand
+CG5FBNM36 tmp-doisan-camera
+CG6GFMK1D times-mishimay
+CG7B0886L talk-aiharadio
+CG7L6Q727 talk-gekikara-food
+CG84CK7AS times-thasegawa
+CG96UHXC2 tmp-creative-workflow
+CG98R8286 prj-yappedia
+CG98VHC0N talk-sushi
+CGD8QPDAR times-simako
+CGDS63USK notify-apps-review
+CGDUTDT6W notify
+CGF7EG92A prj-office-food
+CGFLE0Q7L prj-y4b-the-nextpmf
+CGFP49N76 customize-lettuce
+CGGQA5NRJ matsuda-fan-club
+CGH3EKWH3 prj-y4b-docs
+CGH9H0E48 team-cre
+CGHRDP4TD times-kajuiwa
+CGHTDPXS8 talk-golf
+CGHTMTFHS marke_online
+CGHU5527L team-appcapsule-dev
+CGJ6G9F1S andb
+CGJD3BQC8 notify-cr-jira
+CGJPM0D7B prj-doi
+CGJTPAUCF tmp-display-improve
+CGK0QJ7HV alert-appcapsule
+CGK17P2K1 tmp-android-pushcount
+CGK1PAL9Y notify-meetup
+CGK4G0P60 notify-appcapsule
+CGKA08P44 prj-update-info
+CGKCTF5NH prj-appcapsule
+CGL6999E0 notify-tw-yappli
+CGL91024U prj-ac-tsukada
+CGMBZMQL8 customize-doda
+CGMKPFTC4 notify-jira-legal
+CGMUTMUKW team-corp-okr
+CGMV54MT4 prj-ac-sst
+CGNBLRF0V prj-ac-sotetsu
+CGNCLL45N prj-ac-kamiya
+CGP3Q6SJF prj-ac-sakoda
+CGQ6KQ63E team-sre
+CGQ6LRQH2 to-sre
+CGQ7TR8TC prj-product-invoice
+CGR7X4U83 customize-levistrauss
+CGR8YQ0KZ tmp-improve-corpphone
+CGRPE27NJ incident-appcapsule
+CGSQYA1QA team-general-affairs
+CGUGSRCN8 prj_ac_invoice
+CGUN9KN2H incident
+CGVE2UFFU team-19march-join
+CGVFTG0RZ yappli-ideabox
+CGVHBU74J tmp-improve-pbl
+CGVK0FWQ2 team-payroll-ga
+CGW0XLP3J talk-starbucks
+CGWNKUWLT notify-saas-status
+CGWU880DA club-futsal
+CGX0DATPV talk-designer-ohanami
+CGY03ES7R talk-dodesyo
+CGY32FUGZ tmp-yakuin-lunch0322
+CGYFL7C3G prj-tangerine
+CGYHSLZJ6 notify-success
+CGYJLSGRJ prj-relocation-movie
+CGZ8YG53J prj-ac-newtokyo
+CGZDDNYET talk-appcapsule
+CH0N6BXCP club-sound-associates
+CH0TXRMR7 customize-estnation
+CH1L4H8D8 customize-edwin
+CH26WMZQV prj-ac-product
+CH2RP7547 talk-sagyo_bgm
+CH43VP657 prj-migration-note
+CH4AFJ4NN tmp-yakuin-lunch-320
+CH4AU14DP prj-partner_program
+CH4FZ2A3D prj-corp-app
+CH4L16T0S notify-mtg-room-jira
+CH6KVTRLK customize-shinseibank
+CH6P9L3PW 水野
+CH739CCQM tmp-welcome-gift
+CH87SGUTB prj-sales-monitoring
+CH9SYALE5 club-esports
+CHA4BSJCC tmp-consider-ax
+CHA4NTEFN prj-firebase
+CHBCFQL78 customize-kibera
+CHBGUTYTW team-pr
+CHCKZSZ7H team-pr-ir
+CHDBLDHM3 prj-office-party
+CHDHUPPT5 to-appcapsule
+CHEL0ACU8 prj-ac-zundoya
+CHF2X4Y1J temporary_gogotea
+CHFH91A3F team-communication
+CHGKP57EV notify-yappli-cafe
+CHGRLCT5J tmp-dialpad-hearing
+CHH7NEQG5 team-19april-join
+CHHNTVBFS talk-snkrs
+CHJLZ9UUE customize-reclo
+CHK9Y6048 customize_joyful
+CHLBFBD1P prj_funnel
+CHM487NH0 customize-taisho
+CHM4J7L8P tmp-pdwars-con
+CHR3JCRMF tmp-offsite-20190517
+CHRAG31J4 prj-yop
+CHS8Z16BC prj-ac-nihonshu
+CHSKM3ZS9 customize-teamo
+CHSQQQRKQ ext-yappli-cafe
+CHT7B4ECT team-ui-ux
+CHU0183BK douki_sales_marketing
+CHW68LMNU talk-mahjong
+CHWF8CM4N talk-supplements
+CHX846VPS fukuoka-exhibition
+CJ067GCSZ team-cs-director-only
+CJ0N6B0FK notify-cs-survey
+CJ2MS307J notify-trello-com
+CJ3F2N0R3 team-comm_cs
+CJ3JS3EF2 customize-zaza
+CJ4MPR524 prj-ac-keio
+CJ4S60ZCY club-escape-game
+CJ6G25ZJQ customize_dinos
+CJCA5LYH1 prj-ac-draft
+CJF0SKFDH ext-aloha-yappli
+CJGPC3E2E test-zap
+CJGPWU1AQ prj-ac-machida
+CJH8R81R6 tmp-account-copy
+CJJ51CJH2 talk-racing_kart
+CJK19EV4P tmp-next-ypd
+CJK55CP7D tmp-new-vpn-user
+CJL96QG59 notify-recruit-tel
+CJLDJ5D50 pjt_community_mkt
+CJM0G15EG tmp-sdk-define
+CJMM3PSV9 osaka-capsule
+CJMP6LZLK times-yumi
+CJNDPS9QD talk-shitamach
+CJP6BPRSP osaka-cs-dir
+CJP89G34Y prj-y4b-ad-hoyu
+CJPA2FFKL tmp-customer_data
+CJQ42PCJ1 notify-yappli-wiki
+CJQ4VA4FJ notify-yapproom
+CJSF1UWCB times-fujishita
+CJTF3CRF0 club-k-on
+CJTN51259 team-cs-dir-de-only
+CJU4G7NC8 fukuoka-general
+CJUD9UH3Q customize-tomiduya
+CJV4UQPC4 notify-zoom-alert
+CJVA7T1EH yappli-cafe
+CJWFUG4CQ talk-sweets
+CJWNTD54Y talk-papa-mama
+CJX1Y56UX notify-inside-tel
+CJXCYBFRC sandbox
+CJXEC65RU talk-cooking
+CJZE07S03 customize-matsuya
+CK049RQ78 customize-gorillacli
+CK0NN0V5W talk-gyoza
+CK136LD25 talk-nail
+CK1ED2716 notify-fax
+CK2L752SK osaka-tel
+CK2U5117G talk-soccer
+CK322MJRE temp-recruiting-dev
+CK3EPUS8Z mktg-creative
+CK3UGM5PS tmp-yquest-biz
+CK6JR784S tmp-prj-start
+CK6LJTVEC team-19june-join
+CK6NTRM0D notify-ce-tel
+CK79SGV38 team-furikake
+CK7CHBSLD times-yokosuka
+CKAHBFUN6 fukuoka-relocation
+CKAR9SENL temp-201906-lunch
+CKBSAU1L6 tmp-uiux-designer-jd
+CKCBP2UDN fy19_june_douki
+CKCCLEK4G customize-petgo
+CKDT8NAAU fukuoka-food
+CKEGRGX60 talk-motorcycle
+CKEGT10SG talk-bicycle
+CKESPLTPU corporate_disney0621
+CKF1TSB16 osaka-novelty
+CKG4B4L94 prj-t-point
+CKH5WQNDA notify-ac-tel
+CKJPHUQ4C notify-lounge-usage
+CKK2Q49LN talk-mochizuki
+CKK3Y7J1K prj-ac-ikkadining
+CKN40DQG0 tmp-y4b-auth
+CKNUG3LAY notify-entrance-recep
+CKPGKM02X talk-johnnys
+CKPJZ7S2Z prj-official-manual
+CKPNCTWBD times-koga
+CKQM1L9CY prj-coloricon
+CKQSHS1LG talk-manga
+CKS0Q7PQD prj-y4b-question
+CKU3A8693 to-partner
+CKU4KKC2Z pjt-hanabi
+CKV03BR1R tmp-question
+CKVL89VL7 to-partner-sales
+CKVP37CVB talk_ramen
+CKVPG2ASW customize-ete
+CKVVCNZ33 to-hr
+CKXSA6N94 times-yamane
+CKZJ7SDJB customize-eizai-ec
+CL07Y0V52 field_sales_team3
+CL0GCK9NU team-regional-control
+CL21AK988 team-ac-gen_affairs
+CL26RAZR7 tmp-improve-salesphon
+CL2UDAQHM team-creative-k-only
+CL3LE185T tmp-designer-intern
+CL40R9479 team-creative-o-only
+CL44L399V prj_funnel_cvr
+CL49DV1KL prj-labo-yappli
+CL4FJ1BD4 team-19july-join-
+CL4V1FP32 team-designer-only
+CL5502Y3E yappli_training
+CL5EEGQBA notify-cs-dir-de-tel
+CL5J8TF5Z yappli
+CL6KS90BZ team-enablement
+CL6TKTXT8 notify-1pass-confirm
+CL88A7UV9 prj-biometric-auth
+CL8ESLV1N team-bdr
+CL91DCE0P prj-appsflyer
+CL937HUKB tmp-branch-zoom
+CL9LREBB2 customize-jrnewdays
+CLA389210 prj-rootbox
+CLAPBS85S tmp-time-keeper
+CLD2K5W1X times-kodai
+CLFGA6BSR ext-getakicks-yappli
+CLGMN2BND tmp-takeover-adobe
+CLJ37BCKX notify-automation-sys
+CLJQ5EA6S talk-marketing-event
+CLL7XE9ML fukuoka-sales
+CLM76AG4F prj-yappli-data-hub
+CLM97M6SK prj-vulnerability-che
+CLPF13H5L times-matsurat
+CLPJ9HQ5U customize-cybozu
+CLS2XP31D prj-ac-joysound
+Total
+1 :tada: 5121
+2 :arigato: 3850
+3 :congratulations: 3380
+4 :sasugada: 2828
+5 :yoshiyoshi: 2712
+6 :sparkles: 2617
+7 :+1: 2473
+8 :man-bowing: 2284
+9 :sugoi: 2156
+10 :tea: 1981
+11 :kawaii: 1725
+12 :woman-gesturing-ok: 1676
+13 :god: 1651
+14 :done: 1604
+15 :素敵やん: 1389
+16 :clap: 1155
+17 :woman-raising-hand: 979
+18 :youkoso: 959
+19 :woman-bowing: 947
+20 :pray: 937
+
+#talk-mahjong
+1 :tada: 11
+2 :arigato: 10
+3 :sparkles: 7
+4 :sweat_drops: 5
+5 :clap: 4
+
+#customize-gorillacli
+1 :man-bowing: 1
+
+#talk-1991
+1 :youkoso: 21
+2 :namiki: 20
+3 :nai: 13
+4 :god: 11
+5 :sob: 11
+
+#ext-yappli-draft
+
+#customize-triumph
+1 :arigato: 10
+2 :woman-raising-hand::skin-tone-2: 9
+3 :man-bowing: 8
+4 :pray: 5
+5 :desuyone: 4
+
+#customize-klc
+
+#to-inside-marketo
+
+#customize-sogoseibu
+1 :man-bowing: 18
+2 :+1: 10
+3 :thinking_face: 9
+4 :woman-gesturing-ok: 9
+5 :tada: 8
+
+#kintai-sales
+1 :yoshiyoshi: 117
+2 :tea: 93
+3 :hospital: 48
+4 :tannome: 27
+5 :pill: 23
+
+#osaka-exhibition
+1 :arigato: 11
+2 :man-bowing: 8
+3 :man-bowing::skin-tone-2: 8
+4 :osaka: 8
+5 :sasugada: 8
+
+#prj-exhibition
+
+#series-b_tsunoda
+
+#wantedlyphoto
+
+#notify-yapproom
+1 :full_moon_with_face: 1
+
+#tmp-branch-zoom
+
+#talk-appcapsule
+
+#prj-sales-monitoring
+
+#customize-plst
+
+#notify-yappli-values
+
+#osaka
+
+#notify-saas-status
+
+#talk-marketing-event
+
+#helpbox
+1 :god: 3
+2 :woman-raising-hand: 3
+3 :arigato: 2
+4 :man-bowing: 2
+5 :oyasai: 2
+
+#wiki
+1 :god: 8
+2 :sparkles: 7
+3 :bow: 4
+4 :+1: 3
+5 :heavy_check_mark: 3
+
+#abridge-yappli_chiba
+
+#customize-skylark
+
+#team-furikake
+1 :arigato: 33
+2 :thanks: 21
+3 :kansya: 7
+4 :woman-gesturing-ok: 7
+5 :sparkles: 6
+
+#requestbox
+1 :+1: 12
+2 :scream: 2
+3 :+1::skin-tone-6: 1
+4 :bow: 1
+5 :flushed: 1
+
+#times-shirai
+
+#to-jobcan
+1 :arigato: 48
+2 :man-bowing: 26
+3 :tada: 23
+4 :sasugada: 20
+5 :woman-bowing: 20
+
+#ext-gmotech-yappli
+
+#owned_media_maji
+
+#times-yukahara
+
+#prj-partner_program
+
+#to-partner-sales
+
+#customize-dome
+1 :+1: 5
+2 :tada: 5
+3 :man-bowing: 4
+4 :arigato: 2
+5 :clap: 2
+
+#idom_kurumaconnect
+1 :+1: 3
+2 :kasikomariko: 3
+3 :ok: 3
+4 :man-bowing: 2
+5 :bow: 1
+
+#notify-success
+
+#prj-ac-machida
+
+#ext-getakicks-yappli
+1 :kandoutaiken: 1
+
+#kintai-developers
+
+#newbalance_ar
+
+#app_build
+1 :arigato: 38
+2 :thanks: 24
+3 :itumoarigato: 14
+4 :yarimasu: 14
+5 :woman-bowing::skin-tone-2: 13
+
+#kintai-directors
+
+#customize-kobayashi
+
+#prj-y4b
+
+#notify-tw-yappli
+
+#prj-yappli-mmu
+1 :arigato: 97
+2 :sasugada: 71
+3 :sugoi: 42
+4 :otukaresama: 39
+5 :clap: 35
+
+#wacoal_app
+
+#tmp-doisan-camera
+1 :woman-bowing: 1
+
+#team-enablement
+1 :woman-gesturing-ok: 52
+2 :+1: 10
+3 :man-gesturing-ok: 6
+4 :sasugada: 5
+5 :god: 4
+
+#copen_aoyama
+
+#osaka-sales
+
+#de
+
+#cs-sample-check
+1 :woman-bowing: 54
+2 :woman-gesturing-ok: 41
+3 :man-bowing: 36
+4 :pray: 29
+5 :thanks: 20
+
+#stg-branch
+
+#android_notification
+
+#customize-tsi
+1 :bow: 18
+2 :woman-gesturing-ok: 4
+3 :+1: 2
+4 :fearful: 2
+5 :man-bowing: 2
+
+#team
+
+#ext-sorako-yappli
+
+#prj-specialist-define
+
+#team-bo-support
+1 :woman-bowing: 22
+2 :arigato: 20
+3 :woman-raising-hand: 13
+4 :man-bowing: 10
+5 :sasugada: 9
+
+#notify-jira-legal
+
+#customize-luxurycard
+1 :man-bowing: 34
+2 :man-bowing::skin-tone-2: 17
+3 :sob: 8
+4 :woman-gesturing-ok::skin-tone-2: 8
+5 :azasu: 7
+
+#pinchos
+
+#bbq0926
+
+#team-general-affairs
+
+#tmp-question
+
+#to-support
+1 :arigato: 61
+2 :sasugada: 34
+3 :woman-bowing: 31
+4 :man-bowing: 29
+5 :yarimasu: 25
+
+#times-shadow
+
+#project_webrevamp
+1 :woman-gesturing-ok: 25
+2 :arigato: 16
+3 :man-bowing: 14
+4 :ok: 13
+5 :done: 7
+
+#customize-jtb
+
+#notify-lounge-usage
+
+#prj-yappli-data-hub
+1 :bow: 1
+2 :eyes: 1
+3 :woman-raising-hand::skin-tone-5: 1
+
+#customize-kitanihon
+1 :bow: 13
+2 :+1: 10
+3 :man-bowing: 4
+4 :893: 3
+5 :tada: 3
+
+#cast
+
+#kintai-cust-success
+
+#osaka-food
+
+#talk-dogs
+1 :kawaii: 65
+2 :ishimura: 38
+3 :dog: 19
+4 :youkoso: 11
+5 :iyashi: 8
+
+#notify-ce-jira
+
+#customize-hysgla
+1 :arigato: 4
+2 :tada: 3
+3 :man-bowing: 2
+4 :yami: 2
+5 :otukaresama: 1
+
+#ope-neutralworks
+1 :metal: 1
+2 :sweat_drops: 1
+
+#20180201question
+
+#customize-theory
+
+#times-ymzk
+
+#fluent_english
+
+#online
+
+#project-gpsstamp
+
+#douki_sales_marketing
+
+#copen_ogata
+
+#notify-autotest
+1 :thinking_face: 16
+2 :japanese_ogre: 4
+3 :tada: 4
+4 :maenimita: 3
+5 :sob: 3
+
+#incident-appcapsule
+
+#customize_dinos
+1 :soregaii: 2
+2 :naruhodo: 1
+
+#pjt_community_mkt
+
+#talk-電子工作同好会
+
+#talk-sagyo_bgm
+
+#customer_success_only
+1 :arigato: 47
+2 :sparkles: 36
+3 :sasugada: 23
+4 :done: 17
+5 :man-bowing: 11
+
+#pai
+
+#osaka-relocation
+
+#team-legal
+1 :white_check_mark: 20
+2 :man-gesturing-ok: 15
+3 :arigato: 14
+4 :pray: 11
+5 :+1: 8
+
+#team-developer
+
+#talk-snkrs
+1 :gotem: 6
+2 :sasugada: 3
+3 :tada: 3
+4 :zannnenn: 3
+5 :素敵やん: 3
+
+#customize-phiten
+
+#field
+
+#test-zap
+
+#project_taxi_ad
+1 :woman-gesturing-ok: 14
+2 :man-bowing: 10
+3 :arigato: 7
+4 :ok: 5
+5 :pray: 4
+
+#prj-yop
+
+#fy19_june_douki
+1 :arigato-attouteki-kansha: 12
+2 :adachi: 7
+3 :god: 7
+4 :azasu: 6
+5 :parrot: 6
+
+#ope-northface
+1 :woman-bowing: 11
+2 :woman-gesturing-ok: 5
+3 :bow: 3
+4 :man-bowing: 3
+5 :+1: 2
+
+#club-boulderer
+1 :youkoso: 28
+2 :sugukinnniku: 23
+3 :yoshiyoshi: 19
+4 :done: 17
+5 :sasugada: 15
+
+#notify-automation-sys
+1 :man-bowing: 6
+2 :tada: 2
+3 :clap: 1
+4 :dondokodondoko: 1
+5 :god: 1
+
+#test-slack-for-td
+1 :ok: 1
+
+#notify-entrance-recep
+
+#club-esports
+
+#times_tsuno
+
+#prj-yappedia
+
+#tmp-offsite-20190517
+1 :+1::skin-tone-6: 4
+2 :eyes: 1
+
+#talk-cooking
+
+#talk-soccer
+
+#recruitweb
+1 :clap: 6
+2 :+1: 2
+3 :ok_woman: 2
+4 :ro_hi: 2
+5 :100: 1
+
+#times-okamoto
+
+#customize-ceno
+
+#prj-progress-meeting
+1 :man-bowing: 22
+2 :eyes: 18
+3 :arigato: 8
+4 :+1: 6
+5 :full_moon_with_face: 5
+
+#meetup-3社合同イベント
+
+#talk-sweets
+
+#yappli-app-release
+1 :congratulations: 2088
+2 :tada: 1773
+3 :sparkles: 301
+4 :god: 242
+5 :素敵やん: 170
+
+#customize-wego
+1 :woman-gesturing-ok: 14
+2 :man-bowing: 12
+3 :tada: 9
+4 :scream: 8
+5 :sob: 7
+
+#team-cre
+
+#club-sound-associates
+
+#team-communication
+1 :arigato: 74
+2 :+1: 28
+3 :man-gesturing-ok: 28
+4 :woman-raising-hand: 18
+5 :sparkles: 15
+
+#admin_announce
+
+#team-frontend
+
+#customize-lettuce
+
+#notify-trello-com
+
+#mktg-creative
+
+#corporate_disney0621
+
+#customize-can
+1 :bow: 31
+2 :+1: 9
+3 :ok: 5
+4 :ok_woman: 5
+5 :man-bowing: 4
+
+#customize-sekido
+1 :man-bowing: 2
+2 :azasu: 1
+3 :ok_hand: 1
+4 :soregaii: 1
+
+#customize-eizai-ec
+
+#prj-ac-newtokyo
+
+#tmp-prj-start
+1 :wwww: 3
+2 :ami: 1
+3 :beach_with_umbrella: 1
+4 :man-bowing: 1
+5 :man-gesturing-ok::skin-tone-2: 1
+
+#osaka-office
+
+#prj-office-party
+1 :arigato: 44
+2 :man-bowing: 24
+3 :kawaii: 22
+4 :man-gesturing-ok: 18
+5 :woman-gesturing-ok: 17
+
+#notify-github-android
+1 :done: 18
+2 :+1: 6
+3 :question: 4
+4 :thinking_face: 4
+5 :full_moon_with_face: 3
+
+#prj-uiux-improve
+
+#notification_check
+
+#alert-appcapsule
+1 :eyes: 34
+2 :+1: 5
+3 :dousite: 4
+4 :man-bowing: 4
+5 :bow: 3
+
+#times-yamane
+
+#support-high
+
+#prj-new-cms
+1 :man-bowing: 61
+2 :eyes: 25
+3 :uniuni: 21
+4 :arigato: 20
+5 :done: 17
+
+#club-padel
+1 :arigato: 55
+2 :sasugada: 40
+3 :+1: 37
+4 :full_moon_with_face: 29
+5 :tada: 29
+
+#copen_igarashi
+1 :pray: 127
+2 :woman-bowing: 91
+3 :woman-raising-hand: 58
+4 :man-bowing: 53
+5 :woman-gesturing-ok: 42
+
+#to-app-ad
+
+#marke_offline
+
+#customize-alpen
+1 :man-bowing: 14
+2 :woman-gesturing-ok: 10
+3 :woman-gesturing-ok::skin-tone-2: 4
+4 :tada: 3
+5 :done: 2
+
+#prj-corp-hp-renewal
+1 :man-bowing: 26
+2 :woman-gesturing-ok: 25
+3 :arigato: 20
+4 :woman-bowing: 19
+5 :done: 16
+
+#times-legstand
+
+#customize-kibera
+
+#bicycle
+1 :sugukinnniku: 3
+2 :eyes: 2
+3 :arigato: 1
+
+#customize-sanrio
+
+#team-appcapsule-dev
+
+#talk-motorcycle
+1 :tada: 10
+2 :soreda: 4
+3 :kusa: 3
+4 :sasugada: 3
+5 :+1: 2
+
+#prj_funnel_cvr
+
+#times-oni
+1 :oni: 119
+2 :oninikanabou: 76
+3 :yoshiyoshi: 64
+4 :tada: 49
+5 :oninomenimonamida: 37
+
+#team-creative-office
+
+#weddingpresent
+
+#backoffice
+
+#customize-sanyo
+1 :woman-gesturing-ok: 14
+2 :arigato: 12
+3 :man-bowing: 12
+4 :man-gesturing-ok: 5
+5 :man-raising-hand: 4
+
+#jun_bunkasai
+1 :mount_fuji: 1
+2 :sob: 1
+
+#notify-ce-wiki
+
+#prj-office-food
+1 :sob: 5
+2 :yoi: 5
+3 :disappointed_relieved: 4
+4 :kannzenndoui: 4
+5 :clap: 3
+
+#customize-tokyobase
+1 :+1: 2
+2 :grin: 1
+3 :triumph: 1
+
+#cms3
+1 :white_check_mark: 4
+2 :+1: 3
+3 :moneybag: 1
+4 :smiley: 1
+
+#team-comm_cs
+
+#ladys
+1 :heart: 37
+2 :arigato: 16
+3 :raising_hand: 14
+4 :kawaii: 13
+5 :+1: 12
+
+#customize-saishunkan
+1 :bow: 3
+2 :+1: 1
+3 :flag-tw: 1
+4 :man-bowing: 1
+5 :ok: 1
+
+#kintai
+
+#prj-ac-nihonshu
+1 :ryokai: 2
+2 :arigato: 1
+
+#customize-printemps
+
+#ec
+
+#client_list
+1 :man-bowing: 3
+2 :hikaru: 1
+3 :woman-raising-hand: 1
+
+#notify-ce-workflow
+
+#fukuoka-sales
+
+#prj-vulnerability-che
+
+#project_zappar
+
+#cs_dir
+
+#make_doc
+
+#osaka-emergency
+
+#prj-y4b-ad-hoyu
+
+#times-yokosuka
+1 :sorena: 25
+2 :wakaru: 24
+3 :yoshiyoshi: 24
+4 :sob: 19
+5 :kusa: 15
+
+#talk-johnnys
+1 :heart: 4
+2 :sparkles: 4
+3 :hi: 2
+4 :ii: 2
+5 :muu: 2
+
+#notify-github
+1 :893: 2
+2 :rerun: 1
+
+#insidesales_marketing
+1 :arigato: 93
+2 :thanks: 55
+3 :sasugada: 48
+4 :sugoi: 43
+5 :man-bowing: 29
+
+#notify-alert
+1 :arigato: 135
+2 :kire: 86
+3 :man-bowing: 81
+4 :sasugada: 57
+5 :god: 31
+
+#dev_daily_report
+1 :+1: 1
+2 :ka: 1
+3 :nn: 1
+4 :ta: 1
+
+#field_sales_team3
+1 :man-bowing: 11
+2 :crab: 8
+3 :man-gesturing-ok: 7
+4 :+1: 5
+5 :kusa: 5
+
+#notify-new-cms
+1 :+1: 1
+2 :naruhodo: 1
+3 :zannnenn: 1
+
+#incident
+
+#customize_joyful
+
+#customize-teamo
+
+#notify-cs-survey
+1 :sparkles: 54
+2 :watasida: 17
+3 :ok_hand: 11
+4 :+1: 5
+5 :tada: 5
+
+#customize-joix
+
+#customize-conven
+
+#notify-zoom-alert
+
+#team-designer-only
+
+#customize-cybozu
+
+#customize-hp
+
+#prj-ac-pmi
+
+#prj-corp-security
+
+#notify-cr-jira
+
+#teamdocs
+
+#prj-customersuccessda
+1 :arigato: 38
+2 :+1: 23
+3 :man-bowing: 22
+4 :woman-gesturing-ok: 20
+5 :sasugada: 16
+
+#talk-sushi
+1 :sushi_move: 9
+2 :sushiparrot: 9
+3 :god: 8
+4 :kusa: 6
+5 :sugusushi: 6
+
+#yapplisummit
+1 :arigato: 56
+2 :sugoi: 28
+3 :tada: 28
+4 :+1: 18
+5 :man-bowing: 16
+
+#harajuku_food
+1 :kawaii: 4
+2 :akusiro: 2
+3 :youkoso: 2
+4 :ge: 1
+5 :kurata-san: 1
+
+#to-churn-rate
+1 :+1: 9
+2 :tada: 4
+3 :desuyone: 3
+4 :arigato: 2
+5 :man-raising-hand: 2
+
+#project_photoframe
+
+#team-corp-okr
+
+#customize-zaza
+1 :man-gesturing-ok: 3
+2 :man-bowing::skin-tone-2: 1
+
+#notify-cs-dir-de-tel
+
+#team-bdr
+1 :sasugada: 1
+
+#copen_unyo_community
+1 :woman-gesturing-ok: 95
+2 :woman-bowing: 73
+3 :man-bowing: 38
+4 :pray: 28
+5 :woman-gesturing-ok::skin-tone-2: 20
+
+#notify-highest
+
+#customize-java
+
+#to-office-facilities
+1 :done: 145
+2 :arigato: 92
+3 :woman-bowing: 30
+4 :man-bowing: 28
+5 :woman-gesturing-ok: 26
+
+#project_devweb
+1 :cry: 1
+2 :man-bowing: 1
+3 :tada: 1
+
+#tmp-improve-pbl
+
+#talk-dodesyo
+1 :sugoi: 15
+2 :onchan: 11
+3 :daisuki: 9
+4 :sasugada: 8
+5 :youkoso: 8
+
+#times-koga
+1 :sparkles: 2
+
+#olive
+
+#notify-issue-qacs
+
+#times-kodai
+1 :sasugada: 2
+2 :adachi: 1
+3 :naruhodo: 1
+
+#custom_theory
+
+#tmp-creative-workflow
+1 :sugoi: 2
+2 :arigato: 1
+3 :azasu: 1
+4 :sparkles: 1
+
+#team-pr-ir
+
+#to-appcapsule
+1 :azasu: 21
+2 :ryokai: 18
+3 :arigato: 14
+4 :man-gesturing-ok: 14
+5 :man-bowing: 8
+
+#tmp-customer_data
+
+#customize-azul
+1 :bow: 35
+2 :end: 34
+3 :100: 33
+4 :ok: 26
+5 :sob: 15
+
+#developer_kpt
+1 :tada: 7
+2 :thinking_face: 4
+3 :yoshiyoshi: 4
+4 :god: 3
+5 :sparkles: 3
+
+#customize-kubarahonke
+1 :done: 2
+2 :man-bowing: 2
+3 :man-raising-hand::skin-tone-2: 2
+4 :+1: 1
+5 :exploding_head: 1
+
+#talk-papa-mama
+1 :kawaii: 160
+2 :gyankawa: 23
+3 :sugoi: 18
+4 :sparkles: 12
+5 :wwww: 12
+
+#p_mark
+1 :man-bowing: 26
+2 :kurata-san: 14
+3 :tada: 13
+4 :woman-bowing: 12
+5 :arigato: 9
+
+#customize-talbots
+1 :man-bowing: 8
+2 :pray: 4
+3 :woman-gesturing-ok: 4
+4 :arigato: 3
+5 :ok_woman: 3
+
+#team-19march-join
+
+#prj-se-test
+
+#s_assistant
+
+#customize-jrnewdays
+
+#talk-golf
+
+#tmp-display-improve
+
+#team-19april-join
+
+#customize-aeon
+1 :bow: 11
+2 :+1: 7
+3 :pray: 5
+4 :ok_woman: 4
+5 :tada: 4
+
+#kintai-marketing
+1 :tea: 539
+2 :yoshiyoshi: 154
+3 :muscle: 147
+4 :+1: 96
+5 :sparkles: 68
+
+#custmaize_asakusa
+1 :bow: 4
+2 :+1: 2
+3 :ok_woman: 2
+4 :pray: 2
+
+#times-fujishita
+
+#tmp-designer-intern
+1 :man-bowing: 7
+2 :arigato: 3
+3 :man-bowing::skin-tone-2: 3
+4 :pray: 3
+5 :god: 2
+
+#team-creative-o-only
+1 :harunatu: 15
+2 :akihuyu: 13
+3 :thanks: 10
+4 :arigato: 9
+5 :mariusu_: 6
+
+#prj-labo-yappli
+1 :woman-gesturing-ok: 3
+
+#yappli_training
+
+#prj-marketingcreative
+1 :man-bowing: 49
+2 :woman-gesturing-ok: 39
+3 :arigato: 26
+4 :yarimasu: 20
+5 :nanitozo: 11
+
+#make_docs
+
+#customize-neuve-a
+
+#god
+
+#to-creative-req
+
+#customize-tutu
+1 :man-bowing: 12
+2 :arigato: 10
+3 :man-bowing::skin-tone-2: 10
+4 :+1: 8
+5 :sob: 6
+
+#yoga
+1 :god: 8
+2 :woman_in_lotus_position: 7
+3 :cry: 4
+4 :tea: 4
+5 :woman-raising-hand: 4
+
+#prj-ac-business
+1 :woman-gesturing-ok: 15
+2 :arigato: 14
+3 :man-bowing: 11
+4 :man-gesturing-ok: 11
+5 :sasugada: 10
+
+#prj-corp-app
+1 :full_moon_with_face: 12
+2 :arigato: 8
+3 :woman-bowing::skin-tone-2: 5
+4 :+1: 4
+5 :done: 4
+
+#customize-olive
+1 :+1: 1
+
+#team-appcapsule
+1 :arigato: 66
+2 :azasu: 48
+3 :ryokai: 40
+4 :man-bowing: 27
+5 :+1: 16
+
+#wew
+
+#tmp-zendesk-support
+
+#talk-designer-review
+
+#ma
+
+#to-cs-mail-magazine
+1 :arigato: 35
+2 :man-bowing: 18
+3 :pray::skin-tone-5: 12
+4 :sparkles: 12
+5 :bakusoku: 7
+
+#prj-ac-sotetsu
+
+#team-pr
+
+#customize-matsuya
+1 :hosodamitayo: 1
+2 :kawaii: 1
+3 :ookini: 1
+4 :woman-bowing: 1
+
+#customize-punyus
+
+#customize-trecenti
+1 :desuyone: 3
+2 :man-bowing: 3
+3 :man-gesturing-ok: 3
+4 :arigato: 2
+5 :ok: 2
+
+#kin
+
+#水野
+
+#notify-soumu-etc
+
+#tmp-pdwars-con
+
+#aeon-sfmc_test_team
+1 :tada: 2
+
+#times-okiku
+
+#project_repro
+
+#prj-ac-zundoya
+
+#team-19july-join-
+1 :arigato: 4
+2 :god: 3
+3 :man-bowing: 3
+4 :woman-bowing: 2
+
+#katespade_aftertalk
+
+#osaka-random
+
+#talk-aiharadio
+
+#prj-ac-joysound
+
+#team-meetup
+
+#kpt
+
+#notify-yappli-cafe
+1 :woman-raising-hand: 2
+2 :scream: 1
+
+#osaka-tel
+1 :man-raising-hand::skin-tone-2: 4
+2 :man-bowing::skin-tone-2: 3
+3 :man-gesturing-ok: 3
+4 :man-raising-hand: 3
+5 :done: 2
+
+#prj-y4b-question
+1 :a: 3
+2 :question: 3
+3 :arigato: 1
+4 :ok_hand: 1
+5 :woman-bowing: 1
+
+#to-legal
+
+#notify-reception
+
+#katesapade_us
+
+#times-simako
+
+#customize-doda
+
+#customize-shinseibank
+
+#talk-mochizuki
+
+#alart
+
+#bar_frontier
+1 :+1: 2
+2 :sunflower: 2
+3 :cry: 1
+4 :fearful: 1
+5 :kodak: 1
+
+#prj-ga
+
+#notify-jira-apcy
+
+#customize-fishing8
+
+#yappli-novelty
+
+#tmp-consider-ax
+1 :man-raising-hand: 5
+2 :arigato: 4
+3 :sparkles: 4
+4 :full_moon_with_face: 3
+5 :goisuu: 3
+
+#prj-ac-ikkadining
+
+#labo
+
+#interview_request
+1 :done: 280
+2 :arigato: 37
+3 :woman-bowing: 37
+4 :woman-gesturing-ok: 36
+5 :woman-raising-hand: 35
+
+#customize-bodymaker
+1 :man-bowing::skin-tone-2: 4
+2 :man-raising-hand: 4
+3 :man-bowing: 3
+4 :arigato: 2
+5 :congratulations: 2
+
+#applicationinfo_audit
+1 :woman-bowing: 7
+2 :yarimasu: 7
+3 :arigato: 6
+4 :pray: 3
+5 :sasugada: 3
+
+#team-corp-engineering
+
+#prj-ac-draft
+
+#osaka-capsule
+1 :man-bowing: 2
+
+#team-ac-gen_affairs
+
+#kobelettuce
+
+#team-apps
+
+#pmi_corporate
+
+#talk-starbucks
+
+#notify-mtg-room-jira
+
+#yappli-cafe
+
+#issuebox
+1 :bow: 10
+2 :+1: 8
+3 :rerun: 5
+4 :pray: 4
+5 :hand: 2
+
+#club-barista
+1 :habuchi-raising-hand: 44
+2 :sasugada: 26
+3 :arigato: 20
+4 :coffee: 15
+5 :woman-raising-hand: 13
+
+#kintai-designers
+1 :tea: 200
+2 :yoshiyoshi: 83
+3 :murisunna: 47
+4 :hosodamitayo: 32
+5 :woman-raising-hand: 23
+
+#mktg-cs
+
+#notify
+
+#notify-ac-tel
+
+#random
+1 :sasugada: 257
+2 :sugoi: 254
+3 :tada: 244
+4 :sparkles: 191
+5 :kawaii: 128
+
+#customize_j
+
+#team-creative-k-only
+
+#ext-overdrive-yappli
+
+#notify-relocation
+1 :arigato: 1
+2 :woman-raising-hand: 1
+
+#yappli-friend-club
+1 :素敵やん: 697
+2 :youkoso: 601
+3 :sparkles: 563
+4 :kawaii: 548
+5 :tada: 450
+
+#project_guideline
+
+#notify-recruit-tel
+
+#to-partner
+
+#customize-tokyodelica
+
+#request
+
+#talk-designer-ohanami
+1 :kawaii: 5
+2 :seikai: 2
+3 :sparkles: 2
+4 :ham_bare: 1
+5 :kusa: 1
+
+#team-servers
+
+#prj-ac-tsukada
+
+#tmp-reject
+1 :tada: 48
+2 :congratulations: 45
+3 :god: 29
+4 :sparkles: 27
+5 :sasugada: 15
+
+#customize-estnation
+
+#customize-ete
+1 :man-bowing: 3
+2 :nanitozo: 1
+3 :pray: 1
+
+#talk-lunch
+
+#customize-daiwahotel
+1 :man-bowing: 21
+2 :woman-raising-hand: 19
+3 :pray: 13
+4 :arigato: 12
+5 :yoroshiku: 7
+
+#osaka-4ch
+1 :birthdaypartyparrot: 71
+2 :man-raising-hand: 55
+3 :congratulations: 40
+4 :man-gesturing-ok: 40
+5 :tada: 28
+
+#team-sales-planning
+
+#tmp-new-vpn-user
+1 :done: 2
+2 :man-bowing: 2
+3 :sumi: 2
+4 :+1: 1
+5 :kotetu: 1
+
+#talk-shitamach
+1 :youkoso: 7
+2 :arigato: 2
+3 :sparkles: 2
+4 :tabetai: 2
+5 :wakaru: 2
+
+#fukuoka-food
+1 :+1::skin-tone-2: 1
+
+#prj-official-manual
+
+#storage
+1 :gift: 2
+
+#customize-diskunion
+1 :man-bowing: 20
+2 :woman-gesturing-ok: 9
+3 :pray: 4
+4 :+1: 2
+5 :god: 2
+
+#times-ikeu
+
+#times-muscle
+1 :wwww: 36
+2 :kusa: 34
+3 :kaere: 17
+4 :sorena: 15
+5 :yoshiyoshi: 15
+
+#tmp-android-pushcount
+
+#prj-update-info
+
+#sandbox
+
+#neutral-works-app
+
+#times-nakami
+
+#project_chatsdk
+
+#times-nabe
+1 :wakaru: 31
+2 :kusa: 27
+3 :wwww: 26
+4 :yoshiyoshi: 26
+5 :naruhodo: 20
+
+#prj-coloricon
+1 :arigato: 8
+2 :tada: 8
+3 :+1: 3
+4 :desuyone: 3
+5 :interrobang: 3
+
+#notify-alert-dev
+1 :eyes: 9
+2 :arigato: 4
+3 :+1: 3
+4 :desuyone: 3
+5 :naruhodo: 3
+
+#smc-sanrio
+
+#team-marketing
+1 :sugoi: 121
+2 :arigato: 115
+3 :clap: 113
+4 :sasugada: 90
+5 :otukaresama: 76
+
+#customize-joshin
+1 :man-raising-hand: 41
+2 :man-bowing: 36
+3 :tigers: 18
+4 :arigato: 14
+5 :man-gesturing-ok: 14
+
+#kintai-corporate
+1 :yoshiyoshi: 1514
+2 :tea: 761
+3 :murisunna: 339
+4 :train: 290
+5 :woman-raising-hand: 123
+
+#club-boardgame
+
+#times-sasa
+1 :yoshiyoshi: 6
+2 :nanntekottai: 3
+3 :ponponpain: 3
+4 :uni: 3
+5 :kaneda-: 2
+
+#prj-y4b-the-nextpmf
+1 :woman-gesturing-ok: 12
+2 :sasugada: 10
+3 :+1: 7
+4 :woman-bowing: 7
+5 :arigato-attouteki-kansha: 5
+
+#team-sales
+1 :congratulations: 629
+2 :tada: 613
+3 :sasugada: 347
+4 :+1: 290
+5 :sugoi: 274
+
+#to-developer
+1 :man-bowing: 78
+2 :tada: 78
+3 :arigato: 67
+4 :sasugada: 39
+5 :+1: 22
+
+#ext-aloha-yappli
+
+#club-k-on
+
+#times-kajuiwa
+1 :kusa: 41
+2 :wakaru: 36
+3 :yoshiyoshi: 28
+4 :sorena: 23
+5 :naruhodo: 16
+
+#prj_ac_invoice
+
+#prj-engineer-event
+
+#club-golf
+
+#abstract
+
+#talk-racing_kart
+
+#temp-recruiting-dev
+
+#doublefocus
+
+#the-north-face-ope
+
+#temporary_gogotea
+1 :arigato: 5
+2 :bow::skin-tone-3: 3
+3 :heartbeat: 3
+4 :sasugada: 3
+5 :woman-gesturing-ok: 3
+
+#ope-hellyhansen
+1 :sweat_drops: 1
+
+#copen_utsumi
+
+#times-mochizuki
+1 :kusa: 61
+2 :yoshiyoshi: 61
+3 :sorena: 52
+4 :naruhodo: 46
+5 :thinking_face: 44
+
+#web_seo_sem
+
+#prj-churn-down
+1 :white_check_mark: 39
+2 :god: 22
+3 :sob: 15
+4 :scream: 14
+5 :tada: 14
+
+#prj-migration-note
+1 :+1: 2
+2 :arigato: 1
+3 :naruhodo: 1
+4 :pray: 1
+
+#customize-tomiduya
+
+#customize-jun
+1 :man-bowing: 33
+2 :woman-gesturing-ok: 26
+3 :man-bowing::skin-tone-2: 23
+4 :otukaresama: 16
+5 :+1: 11
+
+#chi-ra-mi-se-night
+1 :evergreen_tree: 2
+2 :man-bowing::skin-tone-3: 2
+3 :+1: 1
+4 :+1::skin-tone-3: 1
+5 :arigato: 1
+
+#times-shin
+
+#team-cs-director-only
+1 :woman-raising-hand: 16
+2 :done: 11
+3 :ok: 11
+4 :strawberry: 10
+5 :man-gesturing-ok: 9
+
+#question_box
+1 :tada: 17
+2 :sparkles: 11
+3 :+1: 8
+4 :bow: 4
+5 :clap: 4
+
+#notify-new-cms-alert
+
+#to-casestudy
+1 :sugoi: 218
+2 :tada: 200
+3 :sparkles: 193
+4 :kawaii: 148
+5 :kandoutaiken: 120
+
+#yappli-tel
+1 :done: 34
+2 :woman-raising-hand: 31
+3 :arigato: 29
+4 :woman-gesturing-ok: 26
+5 :woman-bowing: 13
+
+#customize-taisho
+
+#customize-sanyo-old
+
+#customize-yoshimoto
+
+#tmp-highest-flow-upda
+
+#notify-1pass-confirm
+
+#prj-doi-ext-operation
+1 :pray: 122
+2 :woman-raising-hand: 68
+3 :man-bowing: 67
+4 :arigato: 51
+5 :yarimasu: 31
+
+#note-ootani
+
+#marketing-only
+1 :arigato: 52
+2 :woman-gesturing-ok: 31
+3 :+1: 18
+4 :muscle: 18
+5 :kusa: 14
+
+#yappli-relocation2019
+1 :arigato: 31
+2 :sasugada: 22
+3 :sparkles: 21
+4 :tada: 20
+5 :yoi: 19
+
+#fukuoka-relocation
+1 :+1: 1
+2 :arigato: 1
+3 :god: 1
+
+#tmp-uiux-designer-jd
+
+#club-movie
+
+#talk-gamers
+
+#bubble_how_to
+
+#customize-chibagin
+1 :+1: 14
+2 :bow: 14
+3 :arigato: 9
+4 :pray: 8
+5 :man-bowing: 7
+
+#team-corporate
+1 :arigato: 134
+2 :tada: 76
+3 :woman-bowing: 66
+4 :woman-raising-hand: 55
+5 :youkoso: 53
+
+#cs_emergency
+1 :done: 26
+2 :woman-gesturing-ok: 15
+3 :tannome: 3
+4 :woman-bowing: 3
+5 :woman-gesturing-no: 3
+
+#customize-beams
+
+#customize-levistrauss
+
+#prj-t-point
+
+#改善
+
+#yapplinight
+
+#roumu_memo
+
+#prj-product-invoice
+
+#tmp-y4b-auth
+
+#corporate_name
+1 :+1: 4
+2 :grinning: 4
+3 :sparkles: 4
+4 :custard: 3
+5 :heartbeat: 3
+
+#customize-arigaen
+1 :tada: 5
+2 :man-bowing: 3
+3 :yattane: 3
+4 :+1: 2
+5 :man-raising-hand: 2
+
+#customize-shimojima
+
+#customize_oogaki
+
+#recruiting
+1 :man-bowing::skin-tone-3: 24
+2 :tada: 20
+3 :sasugada: 12
+4 :arigato: 9
+5 :woman-bowing: 9
+
+#fieldsales-勤怠
+
+#talk-gyoza
+1 :dumpling: 20
+2 :oseru: 5
+3 :sasugada: 5
+4 :arigato: 4
+5 :god: 4
+
+#prj-biometric-auth
+
+#to-director
+1 :done: 40
+2 :man-bowing: 28
+3 :woman-gesturing-ok: 21
+4 :man-raising-hand: 14
+5 :man-bowing::skin-tone-2: 11
+
+#notify-support
+
+#customize-honeys
+
+#times-thasegawa
+
+#tmp-time-keeper
+
+#to-team-creative
+1 :man-bowing: 66
+2 :woman-gesturing-ok: 45
+3 :pray: 34
+4 :woman-bowing: 32
+5 :yarimasu: 26
+
+#project_dashboard
+1 :man-bowing: 12
+2 :sparkles: 9
+3 :bow: 7
+4 :eyes: 7
+5 :ami: 6
+
+#prj_funnel
+1 :asanosanface: 6
+2 :+1: 5
+3 :asanosanface1: 5
+4 :arigato: 2
+5 :pray: 2
+
+#customize-casting
+1 :bow: 30
+2 :+1: 13
+3 :tada: 10
+4 :metal: 6
+5 :fishing_pole_and_fish: 4
+
+#we
+1 :ai_takahashi: 12
+
+#customize-foodyone
+1 :man-bowing: 1
+
+#marke_online
+
+#ext-yappli-cafe
+1 :arigato: 8
+2 :+1: 6
+3 :woman-gesturing-ok: 6
+4 :woman-bowing: 5
+5 :man-bowing: 4
+
+#prj-labo_yappli
+
+#where_is_sozai
+
+#team-payroll-ga
+
+#fukuoka-exhibition
+
+#customize-syabuyo
+1 :893: 1
+2 :surfer: 1
+
+#times-hos
+1 :hosodamitayo: 75
+2 :kusa: 59
+3 :kawaii: 51
+4 :dondokodondoko: 36
+5 :yoshiyoshi: 35
+
+#customize-clublion
+1 :arigato: 31
+2 :tada: 23
+3 :sob: 18
+4 :man-bowing: 17
+5 :yattane: 13
+
+#ext-pitcrew
+
+#chaos
+
+#notify-apps-review
+1 :full_moon_with_face: 1
+
+#tmp-improve-corpphone
+1 :man-bowing: 1
+
+#to-hr
+
+#ext-abridge-yappli
+1 :man-bowing: 8
+2 :naruhodo: 5
+3 :+1: 4
+4 :woman-gesturing-ok: 4
+5 :desuyone: 2
+
+#talk-iyashi_no_mado
+
+#times-zuckey2
+
+#times-habuchi
+1 :kawaii: 33
+2 :kusa: 26
+3 :habuchi-gesturing-ok: 25
+4 :iikinnniku: 20
+5 :sasugada: 16
+
+#customize-rope
+
+#andb
+
+#develop
+
+#summit_reception
+
+#luxury_china
+
+#prj-app-marketing
+1 :arigato: 69
+2 :tada: 42
+3 :man-bowing: 31
+4 :sparkles: 25
+5 :+1: 20
+
+#prj-rakuten_pt
+1 :man-bowing: 52
+2 :arigato: 18
+3 :tada: 17
+4 :sparkles: 9
+5 :+1: 7
+
+#team-qa
+1 :man-raising-hand: 68
+2 :man-bowing: 31
+3 :tada: 19
+4 :man-raising-hand::skin-tone-3: 16
+5 :+1::skin-tone-3: 11
+
+#customize-inageya
+1 :+1: 3
+2 :beers: 1
+3 :pray: 1
+4 :triumph: 1
+
+#year-end
+1 :+1: 1
+2 :100: 1
+3 :bell: 1
+4 :bow: 1
+5 :dancers: 1
+
+#team-19june-join
+
+#matsuda-fan-club
+
+#prj-firebase
+
+#tmp-account-copy
+
+#internal-audit
+1 :heavy_check_mark: 1
+
+#to-wework-key
+1 :arigato: 52
+2 :god: 26
+3 :woman-raising-hand: 24
+4 :kawaii: 22
+5 :ikeuchi-san: 20
+
+#営業企画--開発
+1 :+1: 11
+2 :woman-gesturing-ok: 11
+3 :pray: 5
+4 :man-bowing: 4
+5 :face_with_rolling_eyes: 2
+
+#dev_handson
+
+#customize_niko
+
+#customize-tomy
+1 :man-bowing::skin-tone-5: 4
+2 :+1: 3
+3 :woman-bowing: 3
+4 :woman-gesturing-ok: 2
+5 :woman-gesturing-ok::skin-tone-2: 2
+
+#notify-pti-jira
+
+#prj-doi
+
+#notify-online-sales
+1 :+1: 1
+2 :bow: 1
+
+#to-designer
+
+#tmp-welcome-gift
+
+#notify-ce-tel
+
+#pricelist
+
+#customize-heads
+1 :man-gesturing-ok: 3
+2 :man-bowing::skin-tone-2: 2
+3 :man-gesturing-ok::skin-tone-6: 2
+4 :man-raising-hand::skin-tone-2: 2
+5 :man-bowing: 1
+
+#osaka-novelty
+1 :素敵やん: 10
+2 :近藤なう: 4
+3 :gi: 3
+4 :ii: 3
+5 :na: 3
+
+#yappli
+
+#freetrial_lead
+
+#prj-corp-photo
+
+#ad_model
+
+#customize_shincho
+
+#diffeasy_yappli
+1 :bow: 1
+2 :man-bowing: 1
+
+#prj-ar
+1 :arigato: 3
+2 :full_moon_with_face: 2
+3 :kandoutaiken: 2
+4 :man-bowing: 2
+5 :man-gesturing-ok: 2
+
+#prj-appcapsule
+
+#to-salestalk
+1 :sasugada: 64
+2 :sugoi: 41
+3 :+1: 40
+4 :god: 18
+5 :clap: 14
+
+#to-sf-migration
+1 :done: 134
+2 :man-bowing: 35
+3 :woman-gesturing-ok: 20
+4 :arigato: 19
+5 :+1: 13
+
+#customize-soundhouse
+
+#notify-qa-jira
+
+#osaka_project
+
+#general
+1 :arigato: 371
+2 :tada: 344
+3 :sasugada: 339
+4 :sparkles: 277
+5 :sugoi: 259
+
+#alert-death
+1 :bow: 65
+2 :man-bowing: 34
+3 :god: 23
+4 :+1: 21
+5 :sasugada: 19
+
+#talk-gekikara-food
+1 :hot_pepper: 16
+2 :umasou: 10
+3 :heart_eyes: 5
+4 :sugoi: 4
+5 :heart: 3
+
+#notify-appcapsule
+
+#prj-ac-product
+
+#tmp-yquest-biz
+
+#talk-bicycle
+
+#snowboard
+
+#club-survival-game
+1 :woman-gesturing-ok: 67
+2 :tada: 63
+3 :arigato: 58
+4 :youkoso: 43
+5 :ok_hand: 32
+
+#prj-y4b-docs
+
+#osaka-cs-dir
+
+#company-investigation
+1 :man-gesturing-ok: 5
+2 :woman-raising-hand: 4
+3 :+1: 3
+4 :man-bowing: 3
+5 :man-raising-hand: 2
+
+#tmp-yakuin-lunch0322
+
+#yapplisummit_update
+1 :man-bowing: 16
+2 :sugoi: 10
+3 :kandoutaiken: 6
+4 :woman-gesturing-ok: 4
+5 :yarimasu: 4
+
+#notify-recruit
+
+#notify-meetup
+
+#customize-righton
+1 :man-bowing: 17
+2 :+1: 15
+3 :pray: 10
+4 :tada: 10
+5 :+1::skin-tone-2: 9
+
+#team-customer-success
+
+#customize-ragtag
+
+#customize-taiheiyo
+1 :+1: 3
+
+#notification_mochi2
+
+#prj-appsflyer
+
+#club-snowboarding
+1 :sugoi: 6
+2 :joy: 5
+3 :daisuki: 3
+4 :heart: 3
+5 :god: 2
+
+#talk-supplements
+
+#team-developer-okr
+
+#to-office-question
+
+#times-kaji
+
+#notify-yappedia
+
+#ext-digiha-yappli
+
+#prj-ac-sakoda
+1 :ryokai: 11
+2 :arigato: 10
+3 :+1: 5
+4 :azasu: 5
+5 :man-gesturing-ok: 4
+
+#crebox
+1 :+1: 10
+2 :pray: 5
+3 :muscle: 4
+4 :bow: 3
+5 :raised_hands: 3
+
+#copen_iwanaga-y
+1 :man-bowing: 18
+2 :pray: 6
+3 :woman-gesturing-ok: 6
+4 :woman-bowing: 5
+5 :woman-raising-hand: 4
+
+#notify-inside-tel
+
+#temp-201906-lunch
+
+#pjt-hanabi
+
+#prj-rootbox
+
+#team-sre
+
+#yappli-ideabox
+1 :man-bowing: 36
+2 :god: 33
+3 :sasugada: 25
+4 :sugoi: 22
+5 :wakaru: 20
+
+#kintai-communication
+1 :yoshiyoshi: 337
+2 :+1: 189
+3 :tea: 102
+4 :nero: 37
+5 :scream: 25
+
+#notify-yappli-wiki
+
+#ichiro_test_channel
+
+#yokosuka_task
+1 :done: 325
+2 :paperclip: 23
+3 :heavy_multiplication_x: 2
+4 :skull: 1
+
+#prj-ac-kamiya
+
+#blog
+1 :+1: 7
+2 :christmas_tree: 5
+3 :god: 4
+4 :bamboo: 3
+5 :ok_woman: 3
+
+#customize-crestbridge
+1 :man-bowing: 13
+2 :bow: 9
+3 :tada: 7
+4 :+1: 4
+5 :pray: 4
+
+#prj-ec-connect
+1 :arigato: 57
+2 :pray: 48
+3 :syouti: 37
+4 :tada: 23
+5 :eyes: 20
+
+#tmp-sdk-define
+
+#team-cs-dir-de-only
+
+#times-matsurat
+
+#demo
+1 :+1: 1
+
+#to-ec-rs
+1 :+1: 49
+2 :arigato: 45
+3 :man-bowing: 30
+4 :bow: 18
+5 :clap: 14
+
+#seminar
+
+#ypd
+
+#prj-relocation-movie
+
+#tmp-dialpad-hearing
+
+#customize-petgo
+1 :done: 1
+2 :makasero: 1
+3 :man-bowing: 1
+4 :pray::skin-tone-2: 1
+5 :thinking_face: 1
+
+#team-fieldsales
+1 :arigato: 154
+2 :god: 136
+3 :sasugada: 136
+4 :+1: 110
+5 :woman-gesturing-ok: 62
+
+#na
+
+#copen_watanabe
+
+#year-end-party
+
+#times-mishimay
+
+#club-futsal
+
+#website_renewal
+1 :+1: 37
+2 :tada: 16
+3 :sparkles: 14
+4 :bow: 10
+5 :clap: 6
+
+#confluence
+
+#talk-keio_users
+
+#customize-jwi
+
+#prj-ac-keio
+
+#talk_ramen
+
+#tmp-takeover-adobe
+
+#customize-renaissance
+1 :man-bowing: 6
+2 :sob: 4
+3 :tada: 3
+4 :pray: 2
+5 :woman-gesturing-ok: 2
+
+#customize-reclo
+1 :man-bowing: 8
+2 :woman-gesturing-ok: 5
+3 :man-gesturing-ok: 3
+4 :tada: 3
+5 :woman-bowing: 3
+
+#to-sre
+1 :eyes: 19
+2 :man-raising-hand: 5
+3 :sumi: 5
+4 :+1: 4
+5 :arigato: 4
+
+#club-escape-game
+
+#customize_kendepo
+1 :nanndato: 2
+2 :majikayo: 1
+3 :man-bowing: 1
+4 :sob: 1
+5 :woman-raising-hand: 1
+
+#cost_marketing
+
+#talk-cats
+
+#kaizen
+
+#prj-kintai-replace
+
+#customize-newbalance
+
+#notify-fax
+
+#yappli-update
+1 :tada: 145
+2 :ami: 117
+3 :congratulations: 77
+4 :saikouchiku: 64
+5 :sparkles: 59
+
+#customize-proactive
+
+#dev_mmu_2018
+
+#customize-shiseidou
+
+#to-sales-invoice
+
+#customize-nuskin
+
+#team-ui-ux
+
+#team-regional-control
+
+#c
+
+#talk-tech-news
+1 :+1: 28
+2 :sugoi: 27
+3 :eyes: 22
+4 :god: 15
+5 :soregaii: 14
+
+#customize-sekimiki
+
+#times-haya
+1 :kusa: 103
+2 :kawaii: 101
+3 :wwww: 46
+4 :sorena: 45
+5 :full_moon_with_face: 25
+
+#customize_technopro
+1 :arigato: 1
+2 :inemuri: 1
+3 :man-bowing: 1
+
+#prj-tangerine
+
+#fukuoka-general
+
+#cs-se_stampcard
+1 :man-bowing: 3
+2 :todo: 3
+3 :woman-gesturing-ok: 3
+4 :bow: 2
+5 :ami: 1
+
+#tmp-yakuin-lunch-320
+
+#customize-naughtydog
+1 :+1: 11
+2 :raising_hand: 7
+3 :bow::skin-tone-2: 6
+4 :congratulations: 6
+5 :man-bowing::skin-tone-2: 4
+
+#team-td-and-se
+1 :woman-gesturing-ok: 75
+2 :arigato: 19
+3 :man-bowing: 17
+4 :tada: 16
+5 :+1: 12
+
+#k_b
+
+#to-開発相談
+1 :man-bowing: 17
+2 :woman-gesturing-ok: 14
+3 :bow: 8
+4 :arigato: 5
+5 :ami: 4
+
+#prj-yapplisdk
+
+#osaka-cs3
+
+#prj-ac-sst
+
+#customize
+
+#karte-yappli
+
+#customize-recruit
+1 :man-bowing: 7
+2 :sasugada: 4
+3 :arigato: 2
+4 :man-gesturing-ok: 2
+5 :pray: 2
+
+#note-oshiro
+
+#tmp-next-ypd
+
+#team-insidesales
+1 :woman-raising-hand: 45
+2 :sasugada: 36
+3 :arigato: 28
+4 :+1: 24
+5 :sugoi: 21
+
+#notify-github-ios
+1 :pray: 14
+2 :done: 3
+3 :goisuu: 2
+4 :yarimasu: 2
+5 :airplane_departure: 1
+
+#expo
+1 :arigato: 9
+2 :+1: 6
+3 :tea: 6
+4 :yattane: 6
+5 :muscle: 5
+
+#prj-b-dash
+
+#times-yumi
+
+#talk-manga
+1 :kusa: 15
+2 :god: 12
+3 :sigoto: 9
+4 :sorena: 7
+5 :wakaru: 7
+
+#tmp-improve-salesphon
+
+#can_test
+
+#analytics
+
+#customize-tomato
+1 :man-bowing: 18
+2 :+1::skin-tone-2: 9
+3 :man-bowing::skin-tone-2: 6
+4 :arigato: 5
+5 :heavy_check_mark: 5
+
+#team-pdm
+
+#app-preparation
+1 :woman-gesturing-ok: 23
+2 :man-bowing: 12
+3 :pray: 9
+4 :+1: 7
+5 :arigato: 5
+
+#customize-edwin
+1 :arigato: 8
+2 :naruhodo: 3
+3 :woman-bowing: 3
+4 :muscle: 2
+5 :raised_hands: 2
+
+#talk-nail
+
+#push
+
+#customize-seiyu
+1 :man-bowing: 11
+2 :woman-gesturing-ok: 8
+3 :tada: 7
+4 :pray: 6
+5 :bow: 3
+
